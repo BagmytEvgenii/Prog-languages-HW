@@ -118,5 +118,3 @@
 // int [] array = GenerateArray(length, min, max);
 // PrintArray(array);
 
-
-
