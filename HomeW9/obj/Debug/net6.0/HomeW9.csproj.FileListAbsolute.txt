@@ -1,0 +1,15 @@
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\bin\Debug\net6.0\HomeW9.exe
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\bin\Debug\net6.0\HomeW9.deps.json
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\bin\Debug\net6.0\HomeW9.runtimeconfig.json
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\bin\Debug\net6.0\HomeW9.dll
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\bin\Debug\net6.0\HomeW9.pdb
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.csproj.AssemblyReference.cache
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.AssemblyInfoInputs.cache
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.AssemblyInfo.cs
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.csproj.CoreCompileInputs.cache
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.dll
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\refint\HomeW9.dll
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.pdb
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\HomeW9.genruntimeconfig.cache
+C:\Users\bagmy\OneDrive\Desktop\Android Developer\Лекции Семинары ДЗ\2. Знакомство с языками программирования\ДЗ\ДЗ языки прог Багумт Е.В\HomeWork\HomeW9\obj\Debug\net6.0\ref\HomeW9.dll
